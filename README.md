@@ -1,4 +1,4 @@
-# Interactive PPT Generator
+# PPT Generator
 
 This is a simple web application built with React and pptxgenjs that allows users to generate PowerPoint presentations with custom titles, descriptions, and images.
 
